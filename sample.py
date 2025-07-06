@@ -8,3 +8,7 @@ print(tmp)
 import pandas as pd
 df = pd.DataFrame()
 df.shape
+
+dic = {}
+for key,val in dic.items():
+    print(key,val)
